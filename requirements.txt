@@ -1,0 +1,7 @@
+numpy~=1.26
+scipy~=1.11
+matplotlib
+torch~=2.1
+gpytorch==1.11
+botorch==0.9.5
+torchmetrics~=1.2
